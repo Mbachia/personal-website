@@ -1,0 +1,30 @@
+.projects-section {
+    padding: 2em;
+    background-color: #f5f5f5;
+  }
+  
+  .projects-section h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  
+  .projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: center;
+  }
+  
+  .project-card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1em;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-card h3 {
+    margin-top: 0;
+  }
+  
